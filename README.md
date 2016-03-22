@@ -1,8 +1,8 @@
 # Linux-Server-Configuration
 
-1. IP address: 52.36.150.173 port: 2200
-2. Complete URL: ```52.36.150.173```
-3. Software installed and configuration changes made:
+## IP address: 52.36.150.173 port: 2200
+## Complete URL: ```52.36.150.173```
+## Software installed and configuration changes made:
 * adduser grader
 * installed finger
 * changed ssh port
@@ -38,9 +38,7 @@
 * add AWS instance to google credentials
 * restart apache2
 
-4. Third party resources:
+## Third party resources:
 * http://killtheyak.com/use-postgresql-with-django-flask/
 * https://discussions.udacity.com/t/project-5-resources/28343
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04
-
-5. 
