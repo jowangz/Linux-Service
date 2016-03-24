@@ -2,6 +2,7 @@
 
 ## IP address: 52.36.150.173 port: 2200
 ## Complete URL: ```52.36.150.173```
+## User grader password: dSWGWyC4sKFJwZX7
 ## Software installed and configuration changes made:
 * adduser grader
 * installed finger
@@ -42,3 +43,4 @@
 * http://killtheyak.com/use-postgresql-with-django-flask/
 * https://discussions.udacity.com/t/project-5-resources/28343
 * https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-14-04
+* https://www.vultr.com/docs/using-your-ssh-key-to-login-to-non-root-users
